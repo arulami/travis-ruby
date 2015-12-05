@@ -1,0 +1,4 @@
+language: ruby
+rvm:
+  - "1.26.11"
+gemfile: Gemfile.ci
