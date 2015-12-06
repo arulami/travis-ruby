@@ -67,8 +67,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.0">
-                <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+              <first_editor vertical-scroll-proportion="0.05172414">
+                <caret line="2" column="107" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -464,8 +464,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.0">
-            <caret line="0" column="19" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+          <first_editor vertical-scroll-proportion="0.05172414">
+            <caret line="2" column="107" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
             <folding />
           </first_editor>
           <second_editor />
